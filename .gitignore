@@ -1,0 +1,6 @@
+node_modules
+__pycache__
+output_files/*
+!output_files/.gitkeep
+*.xml
+package-lock.json
